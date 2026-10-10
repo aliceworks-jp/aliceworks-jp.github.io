@@ -14,3 +14,5 @@ a{color:var(--accent)}
 .quiet{color:var(--quiet);font-size:.92rem}
 .pr{display:inline-block;font-size:.8rem;border:1px solid var(--quiet);color:var(--quiet);border-radius:4px;padding:0 6px;margin-bottom:8px}
 footer{max-width:720px;margin:0 auto;padding:16px;color:var(--quiet);font-size:.85rem;border-top:1px solid var(--line)}
+
+.ad a img{max-width:100%;height:auto;display:block;margin-top:8px}
